@@ -131,7 +131,6 @@ function turnNumbers(string){
 }
 
 let nums = ["10","24", "45","56","67"]
-// let newNumbers = turnNumbers(nums);
 console.log(turnNumbers(nums));
 
 
